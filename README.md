@@ -1,4 +1,4 @@
-## bWeather App
+## Weather App
 
 ## introduction
 
