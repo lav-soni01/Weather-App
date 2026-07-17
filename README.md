@@ -76,7 +76,10 @@ Wind Speed(in mph): x mph
 local time: 2026-07-17 12:45
 ...
 ```
-For accuret results check the ScreenShot attached with the file.
+For accuret results check the ScreenShot attached here or in the screenshots folder.
+## 📸 Screenshot
+
+![Weather App](screenshots/output.png)
 
 ## What I Learned 
 
