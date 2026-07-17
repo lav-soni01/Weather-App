@@ -32,5 +32,3 @@ print("⌛ Last Updated:",data["current"]["last_updated"])
 print("🕝 Current Time:",data["location"]["localtime"])
 
 print("\n=====================================================")
-
-print(response.url)
