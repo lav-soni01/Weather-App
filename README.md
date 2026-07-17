@@ -11,16 +11,16 @@ The main focus of this project is learning API implementation .
 - Search weather by city name
 - shows :
   
-  region
-  contry
-  temperature
-  wind speed (in kmph & mph)
-  chance of rain
-  wind direction
-  pressure
-  humidity
-  last updated time
-  current time of that city
+  -region
+  -contry
+  -temperature
+  -wind speed (in kmph & mph)
+  -chance of rain
+  -wind direction
+  -pressure
+  -humidity
+  -last updated time
+  -current time of that city
 
   These are not the only things we can ask from the API , but for now the code only shows these things , but we can add more features when we want or need .
 
